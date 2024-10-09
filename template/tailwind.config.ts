@@ -12,6 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        "sf-pro-semi-bold": "var(--font-sf-pro-semi-bold)",
+        "sf-pro-regular": "var(--font-sf-pro-regular)",
+      },
     },
   },
   plugins: [],
